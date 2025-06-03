@@ -4,14 +4,14 @@
 
 ## Installation
 
-required: Python3, Pillow, pastedboard
+**Requirement:** `pngpaste`
 
 1. Download this project.
-1. import workflow (Double click the workflow file).
-1. change variable `py3` and `cropscript` to yours (click the `[x]` button in the upper right corner of workflow window).
+2. Double-click the workflow file to import it into Alfred.
+3. Install the dependency: `brew install pngpaste`
 
 ![workflows tab](workflows_tab.png?raw=true)
 
 ## Notes
 
-If you don't know how to use this workflow. you can remove the watermark in the screenshot by subscribing to Xnip Pro($1.99 per year).
+If you're unsure how to use this workflow, you can also remove the watermark by subscribing to Xnip Pro ($1.99 per year).
